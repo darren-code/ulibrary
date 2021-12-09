@@ -1,0 +1,4 @@
+backend/application/node_modules/*
+backend/chaincode/supply-chain/node_modules/*
+backend/gateway/Org1/node_modules/*
+backend/gateway/Org2/node_modules/*

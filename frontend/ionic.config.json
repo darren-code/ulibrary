@@ -1,0 +1,7 @@
+{
+  "name": "U-Library",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
